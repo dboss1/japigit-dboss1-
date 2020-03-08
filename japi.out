@@ -1,0 +1,79 @@
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "282.0000",
+        "03. high": "290.8200",
+        "04. low": "281.2300",
+        "05. price": "289.0300",
+        "06. volume": "56544246",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "292.9200",
+        "09. change": "-3.8900",
+        "10. change percent": "-1.3280%"
+    }
+}The current price of AAPL is: 289.0300{
+    "Global Quote": {
+        "01. symbol": "SQNXF",
+        "02. open": "43.7450",
+        "03. high": "43.7450",
+        "04. low": "43.7450",
+        "05. price": "43.7450",
+        "06. volume": "1103",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "43.9600",
+        "09. change": "-0.2150",
+        "10. change percent": "-0.4891%"
+    }
+}The current price of SQNXF is: 43.7450{
+    "Global Quote": {
+        "01. symbol": "GOOGL",
+        "02. open": "1269.9500",
+        "03. high": "1302.7500",
+        "04. low": "1257.2100",
+        "05. price": "1295.7400",
+        "06. volume": "3232315",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "1314.7600",
+        "09. change": "-19.0200",
+        "10. change percent": "-1.4467%"
+    }
+}The current price of GOOGL is: 1295.7400{
+    "Global Quote": {
+        "01. symbol": "DIS",
+        "02. open": "110.7600",
+        "03. high": "115.8700",
+        "04. low": "110.3200",
+        "05. price": "115.2700",
+        "06. volume": "22887950",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "113.9800",
+        "09. change": "1.2900",
+        "10. change percent": "1.1318%"
+    }
+}The current price of DIS is: 115.2700{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "73.4600",
+        "03. high": "75.7100",
+        "04. low": "72.0500",
+        "05. price": "75.3400",
+        "06. volume": "18080148",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "76.1900",
+        "09. change": "-0.8500",
+        "10. change percent": "-1.1156%"
+    }
+}The current price of SBUX is: 75.3400{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "162.6100",
+        "03. high": "163.1100",
+        "04. low": "156.0000",
+        "05. price": "161.5700",
+        "06. volume": "72821057",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "166.2700",
+        "09. change": "-4.7000",
+        "10. change percent": "-2.8267%"
+    }
+}The current price of MSFT is: 161.5700
